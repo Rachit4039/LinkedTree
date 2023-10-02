@@ -1,6 +1,7 @@
 body {
     margin: 0;
     padding: 0;
+    
     background-color: #3f2e2e; 
     
     color: rgb(240,240,240);
@@ -49,12 +50,12 @@ h1 {
 
 a {
     text-decoration: none;
-    color: rgb(240,240,240);
+    color: rgb(32, 11, 11);
 }
 
 .tile {
     width: 100%;
-    background-color: rgb(37,37,37);
+    background-color: #999595;
     margin: 7px;
     border-radius: 17px;
     display: flex;
@@ -72,7 +73,8 @@ a {
     width: 40px;
     height: 40px;
     border-radius: 20px;
-    background-color: rgb(52,52,52);
+    background-color: #bebebe;
+    
 }
 
 .tile-share-button svg {
